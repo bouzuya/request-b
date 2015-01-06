@@ -45,6 +45,6 @@
   },
   "dependencies": {
     "es6-promise": "^2.0.0",
-    "request": "^2.45.0"
+    "request": "^2.51.0"
   }
 }
